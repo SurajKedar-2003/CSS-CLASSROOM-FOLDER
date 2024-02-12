@@ -1,0 +1,22 @@
+body{
+    background-image: url(img/img1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /*background-attachment: fixed; it uses to fixed the size of image*/
+    
+}
+h1{
+    text-align: left;
+    color: blueviolet;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+p{
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
