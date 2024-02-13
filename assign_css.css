@@ -1,0 +1,21 @@
+div{
+    border: 2px solid brown;
+    background-image: url(img/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 610px;
+    
+}
+#sp1{
+    color: rgb(120, 3, 5);
+}
+#sp2{
+    color: blue;
+}
+#p1{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    padding: 20px;
+    
+}
