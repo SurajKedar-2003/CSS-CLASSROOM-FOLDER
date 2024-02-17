@@ -1,0 +1,11 @@
+.main{
+    margin: 50px;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+}
+.inner_div{
+    height: 60px;
+    width: 150px;
+    background-color: gray;
+}

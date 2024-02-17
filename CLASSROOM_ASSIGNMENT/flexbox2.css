@@ -1,0 +1,12 @@
+.main{
+    width: 400px;
+    margin: 25px;
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+    background-color: gray;
+}
