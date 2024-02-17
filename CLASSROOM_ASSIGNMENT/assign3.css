@@ -1,0 +1,19 @@
+.first{
+    
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+    height: 40px;
+    width: 400px;
+    text-align: center;
+    padding-top: 20px;
+}
+.li1{
+    background-color: gray;
+    color: white;
+    margin-bottom: 10px;
+    height: 40px;
+    width: 400px;
+    text-align: center;
+    padding-top: 20px;
+}

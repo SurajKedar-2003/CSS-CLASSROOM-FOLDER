@@ -1,0 +1,17 @@
+#b1{
+    height: 200px;
+    width: 300px;
+    border: 5px solid greenyellow;
+    background-color: red;
+    margin-bottom: 20px;
+}
+#b2{
+    height: 200px;
+    width: 300px;
+    border: 5px solid yellow;
+    background-color: blue;
+}
+p{
+    padding-left: 40%;
+    padding-top: 20%;
+}
