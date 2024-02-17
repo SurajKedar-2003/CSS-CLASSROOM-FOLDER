@@ -1,0 +1,22 @@
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    height: 40px;
+    width: 600px;
+}
+.topics{
+    width: 50%;
+    text-align: center;
+}
+.color1{
+    text-align: center;
+    background-color: palegoldenrod;
+}
+.color2{
+    text-align: center;
+    background-color: rgb(206, 206, 250);
+}
+.color3{
+    text-align: center;
+    background-color: aquamarine;
+}
